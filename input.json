@@ -76,5 +76,31 @@
       "best food"
     ],
     "status": "pending"
+  },
+  {
+    "id": "listing-1739164955349",
+    "name": "Jeffy",
+    "category": "preowned-cars",
+    "description": "Achieve the required 400x600 px size for your Student ID photo using our resizing tool. Get it done easily and comfortably from home with just a smartphone.",
+    "address": "National Assocation,S.M.Road Wadala ",
+    "phone": "9769550313",
+    "email": "veigasjeff@gmail.com",
+    "website": "https://www.hotspot.com/",
+    "hours": {
+      "monday": "9:00 AM - 5:00 PM",
+      "tuesday": "9:00 AM - 5:00 PM",
+      "wednesday": "9:00 AM - 5:00 PM",
+      "thursday": "9:00 AM - 5:00 PM",
+      "friday": "9:00 AM - 5:00 PM",
+      "saturday": "Closed",
+      "sunday": "Closed"
+    },
+    "images": [
+      ""
+    ],
+    "features": [
+      "best food"
+    ],
+    "status": "pending"
   }
 ]
