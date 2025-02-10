@@ -1,3 +1,28 @@
 [
-
+  {
+    "id": "listing-1739163407271",
+    "name": "Dr Trailer",
+    "category": "real-estate",
+    "description": "beat place on earth to enjoy",
+    "address": "National Assocation,S.M.Road Wadala ",
+    "phone": "9769550313",
+    "email": "ron@gmail.com",
+    "website": "https://www.hotspot.com/",
+    "hours": {
+      "monday": "9:00 AM - 5:00 PM",
+      "tuesday": "9:00 AM - 5:00 PM",
+      "wednesday": "9:00 AM - 5:00 PM",
+      "thursday": "9:00 AM - 5:00 PM",
+      "friday": "9:00 AM - 5:00 PM",
+      "saturday": "Closed",
+      "sunday": "Closed"
+    },
+    "images": [
+      "/placeholder.svg?height=400&width=600"
+    ],
+    "features": [
+      "best food"
+    ],
+    "status": "pending"
+  }
 ]
