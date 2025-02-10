@@ -24,5 +24,31 @@
       "best food"
     ],
     "status": "pending"
+  },
+  {
+    "id": "listing-1739164527851",
+    "name": "Ronald",
+    "category": "real-estate",
+    "description": "Resize image to 400x600 without losing quality. Just upload your photo, and download your perfectly resized image.",
+    "address": "National Assocation,S.M.Road Wadala ",
+    "phone": "9769550313",
+    "email": "veigasjeff@gmail.com",
+    "website": "https://www.hotspot.com/",
+    "hours": {
+      "monday": "9:00 AM - 5:00 PM",
+      "tuesday": "9:00 AM - 5:00 PM",
+      "wednesday": "9:00 AM - 5:00 PM",
+      "thursday": "9:00 AM - 5:00 PM",
+      "friday": "9:00 AM - 5:00 PM",
+      "saturday": "Closed",
+      "sunday": "Closed"
+    },
+    "images": [
+      "https://www.hotspot.com/"
+    ],
+    "features": [
+      "best food"
+    ],
+    "status": "pending"
   }
 ]
